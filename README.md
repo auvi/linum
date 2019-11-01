@@ -5,7 +5,7 @@ Sort of like `cat -n` but works with multiple files.
 ## Install
 Get the code and build:
 
-    git clone github.com/auvi/linum
+    git clone https://github.com/auvi/linum
     cd linum
     make
 
