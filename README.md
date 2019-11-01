@@ -6,6 +6,7 @@ Sort of like `cat -n` but works with multiple files.
 Get the code and build:
 
     git clone github.com/auvi/linum
+    cd linum
     make
 
 If you have a `~/bin` folder you can install:
