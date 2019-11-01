@@ -1,6 +1,5 @@
 # linum
-Print line numbers with continuations for multiple files
-Sort of like `cat -n` but works with multiple files.
+Print line numbers with continuations for multiple files. This is like `cat -n` but it works with multiple files and line numbers continue.
 
 ## Install
 Get the code and build:
